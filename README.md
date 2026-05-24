@@ -6,9 +6,9 @@ The objective of this project was to answer real-world business questions throug
 
 Throughout this project, I applied the following SQL concepts:
 
-*GROUP BY and aggregate functions
-*CASE WHEN statements
-*Subqueries and Common Table Expressions (CTEs)
-*Date and time analysis
-*Customer and product segmentation
-*Revenue and sales trend analysis
+* GROUP BY and aggregate functions
+* CASE WHEN statements
+* Subqueries and Common Table Expressions (CTEs)
+* Date and time analysis
+* Customer and product segmentation
+* Revenue and sales trend analysis
