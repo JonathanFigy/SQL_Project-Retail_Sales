@@ -1,4 +1,4 @@
-# SQL Project - Retail Sales
+# SQL Project - Retail Sales Analysis
 
 This project focuses on analyzing a retail sales dataset using SQL to uncover actionable business insights related to customer purchasing patterns, product performance, sales trends, and revenue generation.
 
