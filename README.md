@@ -26,5 +26,5 @@ Given that over 53% of total orders occur during the Evening period (after 17:00
 It is recommended to:
 
 * Allocate higher staffing levels during evening hours to reduce wait times and improve customer service efficiency
-*Focus promotional activity and in-store engagement strategies in the evening window, where customer traffic is highest
-*Consider reviewing morning and afternoon resource allocation, as these periods collectively account for less than 50% of total orders
+* Focus promotional activity and in-store engagement strategies in the evening window, where customer traffic is highest
+* Consider reviewing morning and afternoon resource allocation, as these periods collectively account for less than 50% of total orders
