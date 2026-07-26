@@ -19,6 +19,7 @@ Throughout this project, I applied the following SQL concepts:
    Time-of-day analysis shows that the Evening period (after 17:00) generated the highest order volume with 1,062 orders (~53.2%), making it the dominant sales window. The Morning period (before 12:00) accounted for 558 orders (~27.9%), while the Afternoon period (12:00–17:00) recorded 377 orders (~18.9%), the lowest among all time segments.
 
 2. **Quarterly sales analysis revealed a significant upward trend in sales performance across both 2022 and 2023**
+
 In 2022, quarterly sales increased from 63,250 in Q1 to 210,030 in Q4, representing a 232% increase over the year. The strongest quarter-on-quarter growth occurred in Q4 2022, when sales increased by 99.72% compared with Q3.
 
 In 2023, sales increased from 69,490 in Q1 to 184,160 in Q4, representing a 165% increase across the year. The strongest quarter-on-quarter growth occurred in Q3 2023, with sales increasing by 79.28% compared with Q2.
