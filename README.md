@@ -37,6 +37,7 @@ In 2023, sales increased from 69,490 in Q1 to 184,160 in Q4, representing a 165%
 Comparing year-on-year performance, Q4 2023 sales of 184,160 were approximately 12.3% lower than Q4 2022 sales of 210,030. However, the overall 2023 sales performance remained strong, with total annual sales of 458,895, compared with 452,825 in 2022, representing an overall increase of approximately 1.34%.
 
 3. **Monthly Sales Analysis Revealed Seasonal Patterns**
+   
 In 2022, monthly sales reached their highest point in December at 72,880, while the lowest sales were recorded in February at 16,110. The most significant month-on-month increase occurred in September 2022, when sales rose by 191.44%, increasing from 21,195 in August to 61,770.
 
 In 2023, the highest monthly sales were recorded in December at 69,145 while the lowest sales occurred in March at 20,530. The largest month-on-month increase occurred in September 2023, when sales increased by 138.98%, rising from 28,270 in August to 67,560.
