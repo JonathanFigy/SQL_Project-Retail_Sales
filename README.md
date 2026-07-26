@@ -47,10 +47,18 @@ A particularly important pattern is the strong increase in sales during Septembe
 
 ## Recommendations
 1. **Time-of-Day Sales Optimization**
-   Given that over 53% of total orders occur during the Evening period (after 17:00), business operations should be strategically aligned to match this peak demand window.
+
+Given that over 53% of total orders occur during the Evening period (after 17:00), business operations should be strategically aligned to match this peak demand window.
 
 It is recommended to:
 
 * Allocate higher staffing levels during evening hours to reduce wait times and improve customer service efficiency
 * Focus promotional activity and in-store engagement strategies in the evening window, where customer traffic is highest
 * Consider reviewing morning and afternoon resource allocation, as these periods collectively account for less than 50% of total orders
+
+3. **Capitalise on Seasonal Sales Peaks**
+
+*Increase inventory levels ahead of September and December to ensure sufficient product availability during historically strong sales periods and reduce the risk of stockouts
+*Launch targeted promotional campaigns before peak demand periods, particularly in late August and November, to build momentum ahead of the September and year-end sales peaks
+*Allocate additional operational resources during peak periods, including staffing, logistics, and customer service capacity, to handle increased demand efficiently
+*Investigate the underlying drivers of the recurring September sales surge, such as product category performance, promotional activity, customer demographics, or external market factors, to determine whether the pattern can be replicated or further leveraged
