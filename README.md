@@ -25,9 +25,6 @@ In 2022, quarterly sales increased from 63,250 in Q1 to 210,030 in Q4, represent
 
 In 2023, sales increased from 69,490 in Q1 to 184,160 in Q4, representing a 165% increase across the year. The strongest quarter-on-quarter growth occurred in Q3 2023, with sales increasing by 79.28% compared with Q2.
 
-Comparing year-on-year performance, Q4 2023 sales of 184,160 were approximately 12.3% lower than Q4 2022 sales of 210,030. However, the overall 2023 sales performance remained strong, with total annual sales of 459,895, compared with 442,825 in 2022, representing an overall increase of approximately 3.86%.
-
-
 | **Metric**   | **2022** | **2023** |
 |--------------|----------|----------|
 | Q1 Sales     | 63,250   | 69,490   |
@@ -36,7 +33,7 @@ Comparing year-on-year performance, Q4 2023 sales of 184,160 were approximately 
 | Q4 Sales     | 210,030  | 184,160  |
 | Annual Total | 452,825  | 458,895  |
 
-
+Comparing year-on-year performance, Q4 2023 sales of 184,160 were approximately 12.3% lower than Q4 2022 sales of 210,030. However, the overall 2023 sales performance remained strong, with total annual sales of 458,895, compared with 452,825 in 2022, representing an overall increase of approximately 1.34%.
 
 ## Recommendations
 1. **Time-of-Day Sales Optimization**
