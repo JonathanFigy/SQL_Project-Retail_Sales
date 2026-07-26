@@ -16,7 +16,8 @@ Throughout this project, I applied the following SQL concepts:
 
 ## Business Insights
 1. **Evening Hours Recorded the Highest Sales Activity**
-   Time-of-day analysis shows that the Evening period (after 17:00) generated the highest order volume with 1,062 orders (~53.2%), making it the dominant sales window. The Morning period (before 12:00) accounted for 558 orders (~27.9%), while the Afternoon period (12:00–17:00) recorded 377 orders (~18.9%), the lowest among all time segments.
+
+Time-of-day analysis shows that the Evening period (after 17:00) generated the highest order volume with 1,062 orders (~53.2%), making it the dominant sales window. The Morning period (before 12:00) accounted for 558 orders (~27.9%), while the Afternoon period (12:00–17:00) recorded 377 orders (~18.9%), the lowest among all time segments.
 
 2. **Quarterly sales analysis revealed a significant upward trend in sales performance across both 2022 and 2023**
 
