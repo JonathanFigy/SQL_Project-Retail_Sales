@@ -58,7 +58,7 @@ It is recommended to:
 
 3. **Capitalise on Seasonal Sales Peaks**
 
-*Increase inventory levels ahead of September and December to ensure sufficient product availability during historically strong sales periods and reduce the risk of stockouts
-*Launch targeted promotional campaigns before peak demand periods, particularly in late August and November, to build momentum ahead of the September and year-end sales peaks
-*Allocate additional operational resources during peak periods, including staffing, logistics, and customer service capacity, to handle increased demand efficiently
-*Investigate the underlying drivers of the recurring September sales surge, such as product category performance, promotional activity, customer demographics, or external market factors, to determine whether the pattern can be replicated or further leveraged
+* Increase inventory levels ahead of September and December to ensure sufficient product availability during historically strong sales periods and reduce the risk of stockouts
+* Launch targeted promotional campaigns before peak demand periods, particularly in late August and November, to build momentum ahead of the September and year-end sales peaks
+* Allocate additional operational resources during peak periods, including staffing, logistics, and customer service capacity, to handle increased demand efficiently
+* Investigate the underlying drivers of the recurring September sales surge, such as product category performance, promotional activity, customer demographics, or external market factors, to determine whether the pattern can be replicated or further leveraged
