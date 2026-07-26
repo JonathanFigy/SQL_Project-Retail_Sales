@@ -33,6 +33,7 @@ In 2023, sales increased from 69,490 in Q1 to 184,160 in Q4, representing a 165%
 | Q4 Sales     | 210,030  | 184,160  |
 | Annual Total | 452,825  | 458,895  |
 
+
 Comparing year-on-year performance, Q4 2023 sales of 184,160 were approximately 12.3% lower than Q4 2022 sales of 210,030. However, the overall 2023 sales performance remained strong, with total annual sales of 458,895, compared with 452,825 in 2022, representing an overall increase of approximately 1.34%.
 
 ## Recommendations
