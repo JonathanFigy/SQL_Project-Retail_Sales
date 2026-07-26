@@ -56,7 +56,7 @@ It is recommended to:
 * Focus promotional activity and in-store engagement strategies in the evening window, where customer traffic is highest
 * Consider reviewing morning and afternoon resource allocation, as these periods collectively account for less than 50% of total orders
 
-3. **Capitalise on Seasonal Sales Peaks**
+2. **Capitalise on Seasonal Sales Peaks**
 
 * Increase inventory levels ahead of September and December to ensure sufficient product availability during historically strong sales periods and reduce the risk of stockouts
 * Launch targeted promotional campaigns before peak demand periods, particularly in late August and November, to build momentum ahead of the September and year-end sales peaks
